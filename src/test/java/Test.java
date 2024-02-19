@@ -1,8 +1,6 @@
 import org.testng.Assert;
-import org.testng.annotations.Test;
-import org.testng.annotations.TestInstance;
 
-public class Tests {
+public class Test {
 
     @Test
     public void testMethod(){
